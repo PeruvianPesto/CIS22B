@@ -1,0 +1,89 @@
+1234567890
+The Catcher in the Rye
+J.D. Salinger
+Little, Brown and Company
+July 16, 1951
+100
+10
+15
+
+9876543210
+To Kill a Mockingbird
+Harper Lee
+J.B. Lippincott & Co.
+July 11, 1960
+75
+12
+18
+
+1112223334
+1984
+George Orwell
+Secker & Warburg
+June 8, 1949
+120
+8
+14
+
+5556667778
+The Great Gatsby
+F. Scott Fitzgerald
+Charles Scribner's Sons
+April 10, 1925
+90
+9
+16
+
+9990001112
+The Hobbit
+J.R.R. Tolkien
+Allen & Unwin
+September 21, 1937
+80
+15
+22
+
+3334445556
+The Da Vinci Code
+Dan Brown
+Doubleday
+March 18, 2003
+150
+7
+20
+
+7778889990
+Harry Potter and the Sorcerer's Stone
+J.K. Rowling
+Bloomsbury
+June 26, 1997
+110
+11
+17
+
+2223334445
+Pride and Prejudice
+Jane Austen
+T. Egerton, Whitehall
+January 28, 1813
+85
+10
+15
+
+6667778889
+The Lord of the Rings
+J.R.R. Tolkien
+Allen & Unwin
+July 29, 1954
+95
+14
+21
+
+4445556667
+The Hitchhiker's Guide to the Galaxy
+Douglas Adams
+Pan Books
+October 12, 1979
+105
+13
+19
